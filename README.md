@@ -7,5 +7,5 @@ everyone mod Rusted Warfare freely and openly, while also being able to innovate
 
 To see the current version being targeted, check the branch name!
 
-_**QuickLinkX Team, 仅供非商业使用/学习**_
+_**QuickLinkX Team, For non-commercial use/study only**_
 </div>
